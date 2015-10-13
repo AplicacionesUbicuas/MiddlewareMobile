@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="image_description">imageView</string>
+    <string name="app_name">MiddlewareMobile</string>
+    <string name="shared_preferences">shared</string>
+
+    <!-- Buttons -->
+    <string name="accept_button_label">Guardar</string>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="positive_button">Aceptar</string>
+    <string name="negative_button">Cancelar</string>
+
+    <!-- Splash Strings -->
+    <string name="unicauca">Universidad del Cauca</string>
+    <string name="year">2015</string>
+
+    <!-- Touch Activity -->
+    <string name="title_touch">TouchPad</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_text">Connectando...</string>
+    <string name="control">Control</string>
+
+    <!-- alert Dialog -->
+    <string name="title_cannot_connect">Conexión Fallida</string>
+    <string name="title_connection_lost">Conexión Perdida</string>
+    <string name="message_connection_lost">¿Desea intentar una nueva conexión?</string>
+
+    <!-- Settings Dialog -->
+    <string name="ipConfigTitle">Ingresa la dirección ip y puerto</string>
+    <string name="urlHint">192.168.0.20</string>
+    <string name="portHint">8080</string>
+    <string name="configuration">Configuración</string>
+    <string name="ipServer">IP Servidor:</string>
+
+</resources>
